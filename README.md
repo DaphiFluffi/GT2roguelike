@@ -1,11 +1,11 @@
 # Electro Dungeon - Roguelike Dungeon Crawler
 
-![](https://github.com/daaning/GT2roguelike/blob/main/Assets/GIFs/electrodugeons.jpg )
+![startbildschrim](https://github.com/user-attachments/assets/e08d64c8-84e3-4d6b-9794-c9889c0ae6b4)
 
 ## WIKI
 
-* Game Idea and docs: [WIKI](https://github.com/daaning/GT2roguelike/wiki/Spielidee:-Electro-Dungeon)
-* Gameplay videos: [WIKI](https://github.com/daaning/GT2roguelike/wiki/gameplay)
+* Game Idea and docs: [WIKI](https://github.com/daaning/GT2roguelike/wiki/Spielidee:-Electro-Dungeon) (deleted)
+* Gameplay videos: [YouTube Demo](https://youtu.be/ORRExe_K8Mg)
 
 ## Story
 
@@ -40,16 +40,15 @@ Next to our "regular" enemies we have a gruesome boss battle against the great j
 ![alt text](Assets/GIFs/bossbattle.gif)
 
 ## About Us
-
-Game built for Game Engines Course @ HTW Berlin by
-* [Daphna Beljavskij](https://github.com/DaphiFluffi)
-* [Daan Lockhorst](https://github.com/daaning)
-* [Florian Murzov-Pirkl](https://github.com/loxer)
-
+Game built for Game Engines Course @ HTW Berlin
 
 We hope you have as much fun playing Electro Dungeon as we had building it :)
 
 ### Ressources
-* [WIKI Sources](https://github.com/daaning/GT2roguelike/wiki/sources)
-
+* Code: An den entsprechenden Stellen steht ein Link zur Quelle als Kommentar
+* Fonts:
+  * Buttons: https://www.1001fonts.com/radio-days-nf-font.html
+  * Title: https://www.1001fonts.com/electric-boots-font.html
+* Tile Set: https://opengameart.org/content/dungeon-tileset-4
+* Art and Animations made with pisekelapp.com by @DaphiFluffi
 
